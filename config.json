@@ -88,5 +88,13 @@
     "18": {
       "api": "https://api.bwzyz.com/api.php/provide/vod",
       "name": "18"
+    },
+    "kuaiboziyuan": {
+      "api": "https://line1.gayapi.com/api.php/provide/vod",
+      "name": "快播"
+     },
+    "maotaiziyuan": {
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+      "name": "茅台资源"
   }
 }
